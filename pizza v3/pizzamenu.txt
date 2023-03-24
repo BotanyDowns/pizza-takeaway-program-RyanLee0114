@@ -1,5 +1,0 @@
-item------->Price
-A meatlover------->5.95
-B hawaiian------->4.95
-C vegdelight------->3.95
-D chicken------->5.35
